@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the wir-prozesse feature.
+ */
+
+include_once 'wir_prozesse.features.inc';
